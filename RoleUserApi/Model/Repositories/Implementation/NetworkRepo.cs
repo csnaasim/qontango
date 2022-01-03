@@ -11,7 +11,12 @@ namespace RoleUserApi.Model.Repositories.Implementation
         //    const string _connectionString = "server=CSPAK007;user=sa; database=CHIPS;password=csna123SA";
         //const string _connectionString = "server=chipsdbserver.database.windows.net;user=AdminCitris; database=Chips_Internal; password=CiTri$@8765$%43^21!@#&*";
         //const string _connectionString = "server=chipsdbserver.database.windows.net;user=AdminCitris; database=CHIPS_QA; password=CiTri$@8765$%43^21!@#&*";
-        const string _connectionString = @"server=DESKTOP-DKKC5TK\SQLEXPRESS;Database=qt_Freezed;user=sa;password=Admin@123"; 
+        //ali butt local databse
+        //const string _connectionString = @"server=DESKTOP-DKKC5TK\SQLEXPRESS;Database=qt_Freezed;user=sa;password=Admin@123";
+        //ali butt azure connection string
+        const string _connectionString = @"Server=cybersoft.database.windows.net,1433;Initial Catalog=devqontangodb;MultipleActiveResultSets=true;User ID=cybersoft;Password=Cyber@soft123";
+
+
         //const string _connectionString = "server=chipsdbserver.database.windows.net;user=AdminCitris; database=Chips_Dev; password=CiTri$@8765$%43^21!@#&*";
         //const string _connectionString = "server=DESKTOP-L7CMVFJ;user=sa; database=Chips_Dev; password=csna123AS";
         //const string _connectionString = "server=chipsdbserver.database.windows.net;user=AdminCitris; database=Chips_Prod; password=CiTri$@8765$%43^21!@#&*";

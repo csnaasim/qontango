@@ -75,7 +75,7 @@ namespace RoleUserApi.Controllers
 
         [HttpPost("AddUser")]
         public IActionResult AddUser(User user)
-        {
+        {        
             if (user == null)
                 return NoContent();
 

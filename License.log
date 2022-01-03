@@ -1,37 +1,186 @@
     ======  ======
-    Time:1/3/2022 3:26:55 PM
+    Time:1/3/2022 3:54:37 PM
     Title: Initiate log
     Message: 
-    Time:1/3/2022 3:26:55 PM
+    Time:1/3/2022 3:54:37 PM
     Title: Initiate InternalManager
     Message: Trying to Validate License
-    Time:1/3/2022 3:26:55 PM
+    Time:1/3/2022 3:54:37 PM
     Title: Requesting EVT
     Message: EVTP
-    Time:1/3/2022 3:26:55 PM
+    Time:1/3/2022 3:54:37 PM
     Title: Requesting Validation
     Message: ILMValidate
-    Time:1/3/2022 3:26:55 PM
+    Time:1/3/2022 3:54:37 PM
     Title: LICENSER
     Message: FNF
-    Time:1/3/2022 3:26:57 PM
+    Time:1/3/2022 3:54:39 PM
     Title: Could not find file 'C:\ProgramData\Telerik\Hash.lic'.
     Message:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
    at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
    at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
    at Telerik.Licensing.Licenser.ReadHashPass()
-    Time:1/3/2022 3:26:57 PM
+    Time:1/3/2022 3:54:39 PM
     Title: Could not find file 'C:\ProgramData\Telerik\Hash.lic'.
     Message:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
    at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
    at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
    at Telerik.Licensing.Licenser.ReadHashPass()
-adHashPass()
-    Entering constructor for: Telerik.CommonPackage.VSPackage
-    Entering Initialize() of: Telerik.CommonPackage.VSPackage
-    Entering constructor for: Telerik.VSX.UserSettingsPackage.UserSettingsPackage
-    Entering Initialize() of: Telerik.VSX.UserSettingsPackage.UserSettingsPackage
-    Entering constructor for: Telerik.KendoUI.ASP.NET.Core.VSPackage.VsPackage
-    Entering constructor for: Telerik.KendoUI.ASP.NET.Core.VSPackage.VsPackage
-    Entering Initialize() for: Telerik.KendoUI.ASP.NET.Core.VSPackage.VsPackage
-    given range is not current
+    Exception : Invalid clipboard format (Exception from HRESULT: 0x8004006A (DV_E_CLIPFORMAT))
+    Exception : Invalid clipboard format (Exception from HRESULT: 0x8004006A (DV_E_CLIPFORMAT))
+    MSDeploy TraceEvent Handler is called with Using ID 'e656f7c4-6f6c-40af-9d32-a4f2070147e9' for connections to the remote server.
+    MSDeploy TraceEvent Handler is called with Using ID 'e50521c4-a7ff-4aab-a262-01fb4e644555' for connections to the remote server.
+    MSDeploy TraceEvent Handler is called with Updating file (devqontangoapi\RoleUserApi.deps.json).
+    MSDeploy TraceEvent Handler is called with Updating file (devqontangoapi\RoleUserApi.dll).
+    MSDeploy TraceEvent Handler is called with Updating file (devqontangoapi\RoleUserApi.exe).
+    MSDeploy TraceEvent Handler is called with Updating file (devqontangoapi\RoleUserApi.pdb).
+    MSDeploy TraceEvent Handler is called with Updating file (devqontangoapi\web.config).
+th Adding directory (devqontangoapi\it).
+    MSDeploy TraceEvent Handler is called with Adding directory (devqontangoapi\ja).
+    MSDeploy TraceEvent Handler is called with Adding directory (devqontangoapi\ko).
+    MSDeploy TraceEvent Handler is called with Adding directory (devqontangoapi\pl).
+    MSDeploy TraceEvent Handler is called with Adding directory (devqontangoapi\pt-BR).
+    MSDeploy TraceEvent Handler is called with Adding directory (devqontangoapi\Reports).
+    MSDeploy TraceEvent Handler is called with Adding directory (devqontangoapi\ru).
+    MSDeploy TraceEvent Handler is called with Adding directory (devqontangoapi\runtimes).
+    MSDeploy TraceEvent Handler is called with Adding directory (devqontangoapi\runtimes\unix).
+    MSDeploy TraceEvent Handler is called with Adding directory (devqontangoapi\runtimes\unix\lib).
+    MSDeploy TraceEvent Handler is called with Adding directory (devqontangoapi\runtimes\unix\lib\netcoreapp2.1).
+    MSDeploy TraceEvent Handler is called with Adding directory (devqontangoapi\runtimes\win).
+    MSDeploy TraceEvent Handler is called with Adding directory (devqontangoapi\runtimes\win\lib).
+    MSDeploy TraceEvent Handler is called with Adding directory (devqontangoapi\runtimes\win\lib\netcoreapp2.1).
+    MSDeploy TraceEvent Handler is called with Adding directory (devqontangoapi\runtimes\win-arm64).
+    MSDeploy TraceEvent Handler is called with Adding directory (devqontangoapi\runtimes\win-arm64\native).
+    MSDeploy TraceEvent Handler is called with Adding directory (devqontangoapi\runtimes\win-x64).
+    MSDeploy TraceEvent Handler is called with Adding directory (devqontangoapi\runtimes\win-x64\native).
+    MSDeploy TraceEvent Handler is called with Adding directory (devqontangoapi\runtimes\win-x86).
+    MSDeploy TraceEvent Handler is called with Adding directory (devqontangoapi\runtimes\win-x86\native).
+    MSDeploy TraceEvent Handler is called with Adding directory (devqontangoapi\tr).
+    MSDeploy TraceEvent Handler is called with Adding directory (devqontangoapi\wwwroot).
+    MSDeploy TraceEvent Handler is called with Adding directory (devqontangoapi\wwwroot\Templates).
+    MSDeploy TraceEvent Handler is called with Adding directory (devqontangoapi\wwwroot\Uploads).
+    MSDeploy TraceEvent Handler is called with Adding directory (devqontangoapi\zh-Hans).
+    MSDeploy TraceEvent Handler is called with Adding directory (devqontangoapi\zh-Hant).
+    MSDeploy TraceEvent Handler is called with Using ID '4dc36e78-8b36-415b-b164-8e4292b6c15d' for connections to the remote server.
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\appsettings.Development.json).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\appsettings.json).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\cs\Microsoft.CodeAnalysis.CSharp.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\cs\Microsoft.CodeAnalysis.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\de\Microsoft.CodeAnalysis.CSharp.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\de\Microsoft.CodeAnalysis.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\de\Microsoft.CodeAnalysis.Workspaces.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\dotnet-aspnet-codegenerator-design.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\EmailProvider.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\EmailProvider.pdb).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\es\Microsoft.CodeAnalysis.CSharp.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\es\Microsoft.CodeAnalysis.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\es\Microsoft.CodeAnalysis.Workspaces.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\fr\Microsoft.CodeAnalysis.CSharp.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\fr\Microsoft.CodeAnalysis.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\it\Microsoft.CodeAnalysis.CSharp.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\it\Microsoft.CodeAnalysis.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\it\Microsoft.CodeAnalysis.Workspaces.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\ja\Microsoft.CodeAnalysis.CSharp.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\ja\Microsoft.CodeAnalysis.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\ko\Microsoft.CodeAnalysis.CSharp.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\ko\Microsoft.CodeAnalysis.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Microsoft.AspNetCore.Authentication.JwtBearer.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Microsoft.AspNetCore.Razor.Language.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Microsoft.Azure.KeyVault.Core.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Microsoft.Azure.Storage.Blob.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Microsoft.Azure.Storage.Common.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Microsoft.Bcl.AsyncInterfaces.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Microsoft.CodeAnalysis.CSharp.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Microsoft.CodeAnalysis.CSharp.Workspaces.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Microsoft.CodeAnalysis.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Microsoft.CodeAnalysis.Razor.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Microsoft.CodeAnalysis.Workspaces.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Microsoft.IdentityModel.JsonWebTokens.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Microsoft.IdentityModel.Logging.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Microsoft.IdentityModel.Protocols.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Microsoft.IdentityModel.Tokens.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Microsoft.OpenApi.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Microsoft.VisualStudio.Web.CodeGeneration.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Newtonsoft.Json.Bson.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Newtonsoft.Json.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\NuGet.Frameworks.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\pl\Microsoft.CodeAnalysis.CSharp.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\pl\Microsoft.CodeAnalysis.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\pt-BR\Microsoft.CodeAnalysis.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Reports\Invoice.trdp).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\RoleUserApi.deps.json).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\RoleUserApi.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\RoleUserApi.exe).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\RoleUserApi.pdb).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\RoleUserApi.runtimeconfig.json).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\ru\Microsoft.CodeAnalysis.CSharp.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\ru\Microsoft.CodeAnalysis.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\runtimes\win-arm64\native\sni.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\runtimes\win-x64\native\sni.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\runtimes\win-x86\native\sni.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\SendGrid.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\ServiceStack.Common.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\ServiceStack.Interfaces.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\ServiceStack.Text.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\StarkbankEcdsa.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Swashbuckle.AspNetCore.Swagger.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Swashbuckle.AspNetCore.SwaggerGen.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\Swashbuckle.AspNetCore.SwaggerUI.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\System.Composition.AttributedModel.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\System.Composition.Convention.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\System.Composition.Hosting.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\System.Composition.Runtime.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\System.Composition.TypedParts.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\System.Data.SqlClient.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\System.IdentityModel.Tokens.Jwt.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\System.Net.Http.Formatting.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\System.Web.Http.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\tr\Microsoft.CodeAnalysis.CSharp.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\tr\Microsoft.CodeAnalysis.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\web.config).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\wwwroot\index.html).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\wwwroot\Templates\forgot_password.html).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\wwwroot\Templates\reject_container.html).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\wwwroot\Templates\release_container.html).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\wwwroot\Templates\send_invoice.html).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\wwwroot\Uploads\1639461679965.pdf).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\wwwroot\Uploads\1639461848276.pdf).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\wwwroot\Uploads\1639461905356.pdf).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\wwwroot\vssver2.scc).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\zh-Hans\Microsoft.CodeAnalysis.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\zh-Hant\Microsoft.CodeAnalysis.resources.dll).
+    MSDeploy TraceEvent Handler is called with Adding file (devqontangoapi\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll).
