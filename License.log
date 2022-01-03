@@ -1,0 +1,37 @@
+    ======  ======
+    Time:1/3/2022 3:26:55 PM
+    Title: Initiate log
+    Message: 
+    Time:1/3/2022 3:26:55 PM
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:1/3/2022 3:26:55 PM
+    Title: Requesting EVT
+    Message: EVTP
+    Time:1/3/2022 3:26:55 PM
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:1/3/2022 3:26:55 PM
+    Title: LICENSER
+    Message: FNF
+    Time:1/3/2022 3:26:57 PM
+    Title: Could not find file 'C:\ProgramData\Telerik\Hash.lic'.
+    Message:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at Telerik.Licensing.Licenser.ReadHashPass()
+    Time:1/3/2022 3:26:57 PM
+    Title: Could not find file 'C:\ProgramData\Telerik\Hash.lic'.
+    Message:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at Telerik.Licensing.Licenser.ReadHashPass()
+adHashPass()
+    Entering constructor for: Telerik.CommonPackage.VSPackage
+    Entering Initialize() of: Telerik.CommonPackage.VSPackage
+    Entering constructor for: Telerik.VSX.UserSettingsPackage.UserSettingsPackage
+    Entering Initialize() of: Telerik.VSX.UserSettingsPackage.UserSettingsPackage
+    Entering constructor for: Telerik.KendoUI.ASP.NET.Core.VSPackage.VsPackage
+    Entering constructor for: Telerik.KendoUI.ASP.NET.Core.VSPackage.VsPackage
+    Entering Initialize() for: Telerik.KendoUI.ASP.NET.Core.VSPackage.VsPackage
+    given range is not current

@@ -1,0 +1,45 @@
+J:\VSTS_Proj\Chips\Chips_API\ChipsEmailProvider\bin\Debug\netcoreapp3.1\ChipsEmailProvider.deps.json
+J:\VSTS_Proj\Chips\Chips_API\ChipsEmailProvider\bin\Debug\netcoreapp3.1\ChipsEmailProvider.dll
+J:\VSTS_Proj\Chips\Chips_API\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.AssemblyInfoInputs.cache
+J:\VSTS_Proj\Chips\Chips_API\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.AssemblyInfo.cs
+J:\VSTS_Proj\Chips\Chips_API\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.csprojAssemblyReference.cache
+J:\VSTS_Proj\Chips\Chips_API\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.csproj.CoreCompileInputs.cache
+J:\VSTS_Proj\Chips\Chips_API\ChipsEmailProvider\bin\Debug\netcoreapp3.1\ChipsEmailProvider.pdb
+J:\VSTS_Proj\Chips\Chips_API\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.dll
+J:\VSTS_Proj\Chips\Chips_API\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.pdb
+D:\Projects\Chips\Api\20-08-2020\Merged\Chips_API\ChipsEmailProvider\bin\Debug\netcoreapp3.1\ChipsEmailProvider.deps.json
+D:\Projects\Chips\Api\20-08-2020\Merged\Chips_API\ChipsEmailProvider\bin\Debug\netcoreapp3.1\ChipsEmailProvider.dll
+D:\Projects\Chips\Api\20-08-2020\Merged\Chips_API\ChipsEmailProvider\bin\Debug\netcoreapp3.1\ChipsEmailProvider.pdb
+D:\Projects\Chips\Api\20-08-2020\Merged\Chips_API\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.csproj.CoreCompileInputs.cache
+D:\Projects\Chips\Api\20-08-2020\Merged\Chips_API\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.AssemblyInfoInputs.cache
+D:\Projects\Chips\Api\20-08-2020\Merged\Chips_API\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.AssemblyInfo.cs
+D:\Projects\Chips\Api\20-08-2020\Merged\Chips_API\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.dll
+D:\Projects\Chips\Api\20-08-2020\Merged\Chips_API\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.pdb
+D:\Projects\Chips\Api\20-08-2020\Merged\Chips_API\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.csprojAssemblyReference.cache
+D:\Projects\Chips\Git\Chips_API\ChipsEmailProvider\bin\Debug\netcoreapp3.1\ChipsEmailProvider.deps.json
+D:\Projects\Chips\Git\Chips_API\ChipsEmailProvider\bin\Debug\netcoreapp3.1\ChipsEmailProvider.dll
+D:\Projects\Chips\Git\Chips_API\ChipsEmailProvider\bin\Debug\netcoreapp3.1\ChipsEmailProvider.pdb
+D:\Projects\Chips\Git\Chips_API\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.AssemblyInfoInputs.cache
+D:\Projects\Chips\Git\Chips_API\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.AssemblyInfo.cs
+D:\Projects\Chips\Git\Chips_API\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.csproj.CoreCompileInputs.cache
+D:\Projects\Chips\Git\Chips_API\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.dll
+D:\Projects\Chips\Git\Chips_API\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.pdb
+D:\Projects\Chips\Git\Chips_API\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.csprojAssemblyReference.cache
+E:\MyDocs\My Projects\CHiPs\CHiPs_API\ChipsEmailProvider\bin\Debug\netcoreapp3.1\ChipsEmailProvider.deps.json
+E:\MyDocs\My Projects\CHiPs\CHiPs_API\ChipsEmailProvider\bin\Debug\netcoreapp3.1\ChipsEmailProvider.dll
+E:\MyDocs\My Projects\CHiPs\CHiPs_API\ChipsEmailProvider\bin\Debug\netcoreapp3.1\ChipsEmailProvider.pdb
+E:\MyDocs\My Projects\CHiPs\CHiPs_API\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.csprojAssemblyReference.cache
+E:\MyDocs\My Projects\CHiPs\CHiPs_API\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.AssemblyInfoInputs.cache
+E:\MyDocs\My Projects\CHiPs\CHiPs_API\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.AssemblyInfo.cs
+E:\MyDocs\My Projects\CHiPs\CHiPs_API\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.csproj.CoreCompileInputs.cache
+E:\MyDocs\My Projects\CHiPs\CHiPs_API\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.dll
+E:\MyDocs\My Projects\CHiPs\CHiPs_API\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.pdb
+D:\My Projects\RoleUser\ChipsEmailProvider\bin\Debug\netcoreapp3.1\ChipsEmailProvider.deps.json
+D:\My Projects\RoleUser\ChipsEmailProvider\bin\Debug\netcoreapp3.1\ChipsEmailProvider.dll
+D:\My Projects\RoleUser\ChipsEmailProvider\bin\Debug\netcoreapp3.1\ChipsEmailProvider.pdb
+D:\My Projects\RoleUser\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.csprojAssemblyReference.cache
+D:\My Projects\RoleUser\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.AssemblyInfoInputs.cache
+D:\My Projects\RoleUser\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.AssemblyInfo.cs
+D:\My Projects\RoleUser\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.csproj.CoreCompileInputs.cache
+D:\My Projects\RoleUser\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.dll
+D:\My Projects\RoleUser\ChipsEmailProvider\obj\Debug\netcoreapp3.1\ChipsEmailProvider.pdb

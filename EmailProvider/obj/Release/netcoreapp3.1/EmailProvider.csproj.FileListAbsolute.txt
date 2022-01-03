@@ -1,0 +1,18 @@
+E:\MyDocs\My Projects\RoleUser\RoleUserApi\EmailProvider\bin\Release\netcoreapp3.1\EmailProvider.deps.json
+E:\MyDocs\My Projects\RoleUser\RoleUserApi\EmailProvider\bin\Release\netcoreapp3.1\EmailProvider.dll
+E:\MyDocs\My Projects\RoleUser\RoleUserApi\EmailProvider\bin\Release\netcoreapp3.1\EmailProvider.pdb
+E:\MyDocs\My Projects\RoleUser\RoleUserApi\EmailProvider\obj\Release\netcoreapp3.1\EmailProvider.csprojAssemblyReference.cache
+E:\MyDocs\My Projects\RoleUser\RoleUserApi\EmailProvider\obj\Release\netcoreapp3.1\EmailProvider.AssemblyInfoInputs.cache
+E:\MyDocs\My Projects\RoleUser\RoleUserApi\EmailProvider\obj\Release\netcoreapp3.1\EmailProvider.AssemblyInfo.cs
+E:\MyDocs\My Projects\RoleUser\RoleUserApi\EmailProvider\obj\Release\netcoreapp3.1\EmailProvider.csproj.CoreCompileInputs.cache
+E:\MyDocs\My Projects\RoleUser\RoleUserApi\EmailProvider\obj\Release\netcoreapp3.1\EmailProvider.dll
+E:\MyDocs\My Projects\RoleUser\RoleUserApi\EmailProvider\obj\Release\netcoreapp3.1\EmailProvider.pdb
+E:\qontangopro\QONTANGOGIT\API\qontango\EmailProvider\bin\Release\netcoreapp3.1\EmailProvider.deps.json
+E:\qontangopro\QONTANGOGIT\API\qontango\EmailProvider\bin\Release\netcoreapp3.1\EmailProvider.dll
+E:\qontangopro\QONTANGOGIT\API\qontango\EmailProvider\bin\Release\netcoreapp3.1\EmailProvider.pdb
+E:\qontangopro\QONTANGOGIT\API\qontango\EmailProvider\obj\Release\netcoreapp3.1\EmailProvider.csproj.AssemblyReference.cache
+E:\qontangopro\QONTANGOGIT\API\qontango\EmailProvider\obj\Release\netcoreapp3.1\EmailProvider.AssemblyInfoInputs.cache
+E:\qontangopro\QONTANGOGIT\API\qontango\EmailProvider\obj\Release\netcoreapp3.1\EmailProvider.AssemblyInfo.cs
+E:\qontangopro\QONTANGOGIT\API\qontango\EmailProvider\obj\Release\netcoreapp3.1\EmailProvider.csproj.CoreCompileInputs.cache
+E:\qontangopro\QONTANGOGIT\API\qontango\EmailProvider\obj\Release\netcoreapp3.1\EmailProvider.dll
+E:\qontangopro\QONTANGOGIT\API\qontango\EmailProvider\obj\Release\netcoreapp3.1\EmailProvider.pdb
