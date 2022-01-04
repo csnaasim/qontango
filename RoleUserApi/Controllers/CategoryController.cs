@@ -44,32 +44,6 @@ namespace RoleUserApi.Controllers
 
 
 
-        [HttpGet("GetAllCategories2")]
-        public IActionResult GetAllCategories2()
-        {
-            try
-            {
-                List<Category> res = Category.SelectAllCategories();
-                ResponseModelNew response = new ResponseModelNew();
-                if (res != null)
-                {
-                    response.StatusCode = "200";
-                    response.Data = res;
-                    return Ok(response);
-                }
-                else
-                {
-                    response.StatusCode = "400";
-                    response.Data = "Bad Request";
-                    return Ok(response);
-                }
-            }
-            catch (Exception e)
-            {
-
-                return StatusCode(Microsoft.AspNetCore.Http.StatusCodes.Status500InternalServerError, e.Message);
-            }
-        }
 
         [HttpPost("GetAllCategories")]
         public IActionResult GetAllCategories(int OrgID)

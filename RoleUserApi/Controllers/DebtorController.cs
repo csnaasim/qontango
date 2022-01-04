@@ -14,7 +14,6 @@ using Microsoft.AspNetCore.Authorization;
 namespace RoleUserApi.Controllers
 {
     [Authorize]
-
     [Route("api/[controller]")]
     [ApiController]
     public class DebtorController : ControllerBase
